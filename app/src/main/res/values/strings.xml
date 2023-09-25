@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DoThiQuynhMy_Login</string>
+    <string name="underline1">
+        <u>Sign Up</u>
+    </string>
+    <string name="underline2">
+        <u>Log In</u>
+    </string>
+</resources>
